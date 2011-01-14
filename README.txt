@@ -1,6 +1,5 @@
-A PHP port of Proj4js.  It seems to work about as well as Proj4js, though I
-can't vouch for all the projections.  I know for a fact that projections
-like EPSG:21781 don't.
+A PHP port of Proj4js.  It seems to work about as well as Proj4js for some projections,
+but I know for a fact that projections like EPSG:21781 don't.  When there's time?
 
 Example:
 --------
